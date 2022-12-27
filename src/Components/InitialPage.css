@@ -1,0 +1,35 @@
+h1{
+    color: rgb(214, 93, 107);
+}
+body{
+    background-color: rgb(232, 232, 198);
+}
+#search-box{
+    width: 450px;
+}
+#heading{
+    background-color: rgba(232, 195, 109, 0.877);
+    height: 80px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+}
+#image{
+    height: 250px;
+    width: 250px;
+    background-size:250px 250px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    text-decoration: none;
+}
+#books{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; 
+    margin-top: 20px;
+}
+span{
+    color: rgba(11, 241, 18, 0.952);
+    font-size: larger;
+    font-weight: bold;
+}
